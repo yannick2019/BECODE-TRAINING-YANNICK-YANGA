@@ -19,3 +19,5 @@ Il existe deux concepts fondamentaux inhérents au fonctionnement d' Internet : 
 * World Wide Web 
 * Chat ou messagerie instantanée 
 * Streaming 
+
+this theory file has been reviewed by Eliott De Trez
