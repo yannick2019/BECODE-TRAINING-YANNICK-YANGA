@@ -14,7 +14,7 @@ Je suis une personne gentile sociable et très passionné par la programmation. 
 * Apprendre
 
 ## Objectifs 
-* Devnenir développeur Backend
+* Devenir développeur Backend
 * Maîtriser un framework Backend et un framework Frontend
 * Développer une application web from scratch
 
@@ -32,4 +32,4 @@ La création d'un projects web intérressants pour avoir un bon portofolio à pr
 3. L'organisation
 
 ## Mon GIF favoris
-![GIF one piece](https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg)
+![GIF java logo](https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg)
